@@ -1,0 +1,5 @@
+https://github.com/MianMArslan/fyp-back-end.git
+https://github.com/MianMArslan/fyp-main-portal.git
+https://github.com/MianMArslan/fyp-agency-portal.git
+https://github.com/MianMArslan/fyp-admin-portal.git
+https://github.com/MianMArslan/fyp-tourist-portal.git
